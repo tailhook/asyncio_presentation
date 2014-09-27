@@ -18,10 +18,7 @@ Standard
 
     * short scripts
     * your service binding
-
-----
-
-Pulls into stdlib: selectors
+    * selectors
 
 ----
 
